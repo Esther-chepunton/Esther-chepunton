@@ -44,7 +44,9 @@
 ### 📓 fresh from my field notes
 
 <!-- NOTES:START -->
-- *Notes will appear here automatically.*
+- `2026-11-06` **[anon vs service_role keys, and the doubled /rest/v1 path](https://github.com/Esther-chepunton/field-notes/blob/main/supabase/anon-vs-service-role-keys.md)** · <sub>supabase</sub>
+- `2026-11-06` **[Why AI-generated sites feel generic](https://github.com/Esther-chepunton/field-notes/blob/main/design/why-ai-sites-feel-generic.md)** · <sub>design</sub>
+- `2026-11-06` **[Cursor: .mdc rules, AGENTS.md, and model choice](https://github.com/Esther-chepunton/field-notes/blob/main/ai-workflows/cursor-rules-and-agents-md.md)** · <sub>ai-workflows</sub>
 <!-- NOTES:END -->
 
 <details>
@@ -67,6 +69,6 @@
 ---
 
 <p align="center"><sub>
-<!-- UPDATED:START -->Last synced: —<!-- UPDATED:END -->
+<!-- UPDATED:START -->Last synced: 06 Nov 2026, 11:13 EAT<!-- UPDATED:END -->
  · 🪄 this page updates itself from my field notes
 </sub></p>
