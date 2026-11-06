@@ -62,7 +62,7 @@
 
 ### 📫 say hi
 
-<a href="mailto:estherchepunton@gmail.com"><img src="https://img.shields.io/badge/email-me-F29A6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:chepuntone@gmail.com"><img src="https://img.shields.io/badge/email-me-F29A6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/Esther-chepunton/Esther-chepunton/discussions"><img src="https://img.shields.io/badge/ask_me-anything-B9A6F2?style=for-the-badge&logo=github&logoColor=white" alt="Discussions"></a>
 <a href="https://github.com/Esther-chepunton/field-notes"><img src="https://img.shields.io/badge/read-my_notes-8FD3C1?style=for-the-badge&logo=bookstack&logoColor=white" alt="Field notes"></a>
 
