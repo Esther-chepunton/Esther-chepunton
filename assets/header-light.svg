@@ -27,9 +27,9 @@
     @keyframes tw{0%,100%{opacity:.2}50%{opacity:1}}
     .wave{transform-origin:452px 118px;animation:wave 2.4s ease-in-out infinite}
     @keyframes wave{0%,60%,100%{transform:rotate(0)}10%,30%{transform:rotate(16deg)}20%,40%{transform:rotate(-8deg)}}
-    .role{opacity:0;animation:role 16s infinite}
-    .r2{animation-delay:4s}.r3{animation-delay:8s}.r4{animation-delay:12s}
-    @keyframes role{0%{opacity:0;transform:translateY(8px)}3%,22%{opacity:1;transform:translateY(0)}25%,100%{opacity:0;transform:translateY(-8px)}}
+    .role{opacity:0;animation:role 20s infinite}
+    .r2{animation-delay:4s}.r3{animation-delay:8s}.r4{animation-delay:12s}.r5{animation-delay:16s}
+    @keyframes role{0%{opacity:0;transform:translateY(8px)}2%,18%{opacity:1;transform:translateY(0)}20%,100%{opacity:0;transform:translateY(-8px)}}
     .blink{animation:b 1s steps(1) infinite}
     @keyframes b{50%{opacity:0}}
   </style>
@@ -78,6 +78,7 @@
     <text x="66" y="250" fill="#1B1A22" fill-opacity="0.55"><tspan fill="#2E8C76">~$</tspan> esther</text>
     <text x="172" y="250" class="role" fill="#6B55C9">--builds full-stack web apps</text>
     <text x="172" y="250" class="role r2" fill="#C9602F">--ships with Next.js + Django</text>
+    <text x="172" y="250" class="role r5" fill="#6B55C9">--is learning SEO 🔎</text>
     <text x="172" y="250" class="role r3" fill="#2E8C76">--is learning 3D on the web</text>
     <text x="172" y="250" class="role r4" fill="#1B1A22">--takes the long way up the mountain</text>
   </g>

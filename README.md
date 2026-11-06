@@ -14,6 +14,7 @@
 
 - 💻 **full-stack software developer** in Nairobi, Kenya 🇰🇪
 - 🧩 I like owning the whole thing: the data model, the API and the screen someone actually touches
+- 🔎 currently levelling up in **SEO**, because a great site nobody can find is a secret, not a product
 - 📱 building for how Kenya actually lives: M-Pesa payments, local places, local money habits
 - 📓 I learn in public. My notes live in **[field-notes](https://github.com/Esther-chepunton/field-notes)**
 
@@ -37,6 +38,14 @@
 
 ### 🌱 currently learning
 
+> [!TIP]
+> 🔎 **main quest right now: SEO.** I'm learning how search engines actually read a site, and how to build sites that get found and not just look good.
+
+- 🔎 **SEO, hands-on:**
+  - 🗝️ keyword research → turning a big keyword list into a real plan
+  - 🏷️ metadata templates that scale across hundreds of product pages
+  - 🛒 SEO for an e-commerce marketplace I'm working on
+  - 🧭 how search engines crawl, index and rank pages
 - 🎞️ **3D & scroll-driven animation on the web:** making pages that move like stories
 - 🏗️ **building a studio:** Korava Group is my playground for learning design systems, client work and the business side of code
 - 🤖 **AI-assisted development:** Cursor rules, agent memory, and when to trust the model (and when not to)
