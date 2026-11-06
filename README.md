@@ -1,57 +1,72 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Esther Chepunton — Solo founder, Korava Group, Nairobi" src="assets/header-dark.svg" width="100%">
+  <img alt="hi, I'm Esther — full-stack software developer in Nairobi" src="assets/header-dark.svg" width="100%">
 </picture>
 
-I build web experiences that make people *want* things: animated, scroll-driven sites that walk a visitor through the whole story of a product, a car or a home. I run **[Korava Group](#)**, a studio in Nairobi, and I build my own products alongside client work.
-
-This profile is where I think out loud: what I'm building, what I know, and what I'm learning right now.
+<p align="center">
+  <i>building things for the web, end to end: database ➝ API ➝ interface ✨</i>
+</p>
 
 ---
 
-### `01` Now
+### 🌷 about me
 
-- **Korava Group:** shaping the animated 3D campaign-site offer for automotive brands, and exploring real estate next
-- **Kiasi:** behavioural money tracking for M-Pesa users
+- 💻 **full-stack software developer** in Nairobi, Kenya 🇰🇪
+- 🧩 I like owning the whole thing: the data model, the API and the screen someone actually touches
+- 📱 building for how Kenya actually lives: M-Pesa payments, local places, local money habits
+- 📓 I learn in public. My notes live in **[field-notes](https://github.com/Esther-chepunton/field-notes)**
 
+### 🛠️ things I've built
 
-<sub>Updated by hand, monthly.</sub>
+| | project | what it does | built with |
+|:-:|---|---|---|
+| 💸 | **[Kiasi](https://github.com/Esther-chepunton/kiasi)** | money tracking for M-Pesa users: upload your statement and it turns your transactions into insight | Next.js · Django REST |
+| 🗺️ | **[Kijiji](https://github.com/Esther-chepunton/Nairobi_nest)** | a discovery platform for Kenya: ranks places by mood, time, budget and company, builds day plans, and books local guides via M-Pesa STK Push | React · Vite · Flask · Postgres · Daraja |
 
-### `02` Selected work
+### 🧰 my toolbox
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[Kiasi](https://github.com/Esther-chepunton/kiasi)** | Behavioural money tracking for M-Pesa users: upload your M-Pesa statement and it turns your transactions into insight | Next.js · Django REST |
-| **[Kijiji](https://github.com/Esther-chepunton/Nairobi_nest)** | Discovery platform for Kenya: ranks places by mood, time, budget and company; day plans; guide booking via M-Pesa STK Push | React · Vite · Flask · Postgres · Daraja |
-| **[MysticStudio](#)** | Fully animated one-page furniture store | Next.js · Tailwind |
-| **[Mystic-OS](#)** | Korava's internal design system: palette, type, components, reference framework | Tailwind · Magic UI |
+**frontend**<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite&theme=dark" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind, Vite" />
 
-### `03` What I work with
+**backend & data**<br>
+<img src="https://skillicons.dev/icons?i=py,django,flask,postgres,supabase&theme=dark" alt="Python, Django, Flask, PostgreSQL, Supabase" />
 
-**Frontend:** React, Next.js, Tailwind CSS · **Backend:** Django REST Framework, Supabase · **Ship:** Vercel · **Tools:** Cursor, VS Code, Context7 MCP
+**ship & tools**<br>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,vscode,figma&theme=dark" alt="Git, GitHub, GitHub Actions, Vercel, VS Code, Figma" />
 
-I care most about the micro-decisions that stop a site from feeling like every other AI-generated page.
+### 🌱 currently learning
 
-### `04` Field notes: what I'm learning
+- 🎞️ **3D & scroll-driven animation on the web:** making pages that move like stories
+- 🏗️ **building a studio:** Korava Group is my playground for learning design systems, client work and the business side of code
+- 🤖 **AI-assisted development:** Cursor rules, agent memory, and when to trust the model (and when not to)
 
-Short, honest notes from real work. Full archive → **[field-notes](https://github.com/Esther-chepunton/field-notes)**
+### 📓 fresh from my field notes
 
 <!-- NOTES:START -->
-- `2026-11-06` **[anon vs service_role keys, and the doubled /rest/v1 path](https://github.com/Esther-chepunton/field-notes/blob/main/supabase/anon-vs-service-role-keys.md)** · <sub>supabase</sub>
-- `2026-11-06` **[Why AI-generated sites feel generic](https://github.com/Esther-chepunton/field-notes/blob/main/design/why-ai-sites-feel-generic.md)** · <sub>design</sub>
-- `2026-11-06` **[Cursor: .mdc rules, AGENTS.md, and model choice](https://github.com/Esther-chepunton/field-notes/blob/main/ai-workflows/cursor-rules-and-agents-md.md)** · <sub>ai-workflows</sub>
+- *Notes will appear here automatically.*
 <!-- NOTES:END -->
 
-### `05` Work with me
+<details>
+<summary><b>🎲 random facts about me</b></summary>
+<br>
 
-I take on a small number of projects each quarter: animated campaign and product sites, and front-end builds with a strong design point of view.
+- 🥾 I hike solo, and I usually take the long way up
+- 🕯️ I can read a candlestick chart
+- 🌀 I'll happily debate free will, determinism and the nature of time
+- 🧴 my skincare routine is more consistent than some of my commit history
 
-**Email:** [chepuntone@gmail.com](mailto:estherchepunton@gmail.com) · **Questions & ideas:** [Discussions](https://github.com/Esther-chepunton/Esther-chepunton/discussions)
+</details>
+
+### 📫 say hi
+
+<a href="mailto:estherchepunton@gmail.com"><img src="https://img.shields.io/badge/email-me-F29A6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/Esther-chepunton/Esther-chepunton/discussions"><img src="https://img.shields.io/badge/ask_me-anything-B9A6F2?style=for-the-badge&logo=github&logoColor=white" alt="Discussions"></a>
+<a href="https://github.com/Esther-chepunton/field-notes"><img src="https://img.shields.io/badge/read-my_notes-8FD3C1?style=for-the-badge&logo=bookstack&logoColor=white" alt="Field notes"></a>
 
 ---
 
-<sub>
-<!-- UPDATED:START -->Last synced: 06 Nov 2026, 10:39 EAT<!-- UPDATED:END -->
- · This README rewrites itself from my field notes via GitHub Actions.
-</sub>
+<p align="center"><sub>
+<!-- UPDATED:START -->Last synced: —<!-- UPDATED:END -->
+ · 🪄 this page updates itself from my field notes
+</sub></p>
