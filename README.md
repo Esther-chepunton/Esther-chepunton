@@ -14,7 +14,7 @@ This profile is where I think out loud: what I'm building, what I know, and what
 
 - **Korava Group:** shaping the animated 3D campaign-site offer for automotive brands, and exploring real estate next
 - **Kiasi:** behavioural money tracking for M-Pesa users
-- **This profile:** turning my GitHub into a living record of how I work
+
 
 <sub>Updated by hand, monthly.</sub>
 
@@ -47,7 +47,7 @@ Short, honest notes from real work. Full archive → **[field-notes](https://git
 
 I take on a small number of projects each quarter: animated campaign and product sites, and front-end builds with a strong design point of view.
 
-**Email:** [estherchepunton@gmail.com](mailto:estherchepunton@gmail.com) · **Questions & ideas:** [Discussions](https://github.com/Esther-chepunton/Esther-chepunton/discussions)
+**Email:** [chepuntone@gmail.com](mailto:estherchepunton@gmail.com) · **Questions & ideas:** [Discussions](https://github.com/Esther-chepunton/Esther-chepunton/discussions)
 
 ---
 
