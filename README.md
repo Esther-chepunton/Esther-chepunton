@@ -20,10 +20,12 @@
 
 ### 🛠️ things I've built
 
-| | project | what it does | built with |
-|:-:|---|---|---|
-| 💸 | **[Kiasi](https://github.com/Esther-chepunton/kiasi)** | money tracking for M-Pesa users: upload your statement and it turns your transactions into insight | Next.js · Django REST |
-| 🗺️ | **[Kijiji](https://github.com/Esther-chepunton/Nairobi_nest)** | a discovery platform for Kenya: ranks places by mood, time, budget and company, builds day plans, and books local guides via M-Pesa STK Push | React · Vite · Flask · Postgres · Daraja |
+| | project | what it does | built with | live |
+|:-:|---|---|---|:-:|
+| 💸 | **[Kiasi](https://github.com/Esther-chepunton/kiasi)** | money tracking for M-Pesa users: upload your statement and it turns your transactions into insight | Next.js · Django REST | [▶ open](https://kiasi-nine.vercel.app) |
+| 🗺️ | **[Kijiji](https://github.com/Esther-chepunton/Nairobi_nest)** | a discovery platform for Kenya: ranks places by mood, time, budget and company, builds day plans, and books local guides via M-Pesa STK Push | React · Vite · Flask · Postgres · Daraja | [▶ open](https://nairobi-nest.vercel.app) |
+| 💍 | **[Korava jewellery](https://github.com/Esther-chepunton/jewelstore)** | an editorial fine-jewellery site where the jewellery leads: one neckline shown bare, for the day and for the evening as you scroll | HTML · CSS · GSAP · ScrollTrigger | [▶ open](https://jewelstore-delta.vercel.app) |
+| 🏎️ | **[Mercedes-Benz motion concept](https://github.com/Esther-chepunton/korava-automotive)** | a scroll-driven product film: the headlights wake as you scroll, then specs, counters and close-ups take over | GSAP · ScrollTrigger · Lenis | [▶ open](https://korava-automotive.vercel.app) |
 
 ### 🧰 my toolbox
 
